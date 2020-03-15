@@ -7,8 +7,8 @@ EU edition: Very easy to use :)
 4) Wait until the program selects the correct password.
 5) Done.
 
-# Attention!
-Provided for informational purposes only. Live by the law and do no harm to anyone :)
+**Attention!**
+**Provided for informational purposes only. Live by the law and do no harm to anyone :)**
 
 RU edition: Очень прост в использовании :)
 1) Просто скачайте файл - "Brute mail.py"
